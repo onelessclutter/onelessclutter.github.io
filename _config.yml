@@ -1,3 +1,4 @@
 title: One Less Clutter
 
-remote_theme: chrisrhymes/bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
+theme: merlot
