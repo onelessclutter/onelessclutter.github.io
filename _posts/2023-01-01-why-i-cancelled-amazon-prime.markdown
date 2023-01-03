@@ -14,7 +14,7 @@ To someone who embraces every new technological leap, I found it highly appealin
 
 At first, it is the simplicity of buying things. Then it became the amazement with Amazon’s integration with home devices such as the Echo and the Fire TV. Next, Amazon Prime Video and Music worsened it, as these bundled services now justify the yearly subscription cost. Eventually, it became ingrained in my household as a necessary lifestyle instrument. 
 
-Like the air I breathe, I can no longer function without it.
+Like the air I breathe, I can no longer function without it. 
 
 ### The True Cost of Amazon Prime
 
