@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Erickson
-  author__bio: Seeks minimalism and a valued life. 
+  author__bio: Seeks minimalism and a valued life.
   author__avatar: '/images/01-1.jpg'
 
 social:
@@ -85,7 +85,7 @@ disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For examp
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-PK4DQP0095
 
 
 #-------------------------------
