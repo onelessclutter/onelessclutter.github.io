@@ -6,7 +6,7 @@ date:   2023-01-01 15:01:35 +0300
 image:  ‘/images/001-0.jpeg’
 tags:   [consumerism]
 ---
-My love affair with Amazon Prime started in 2016. 
+My love affair with Amazon Prime started in 2012. 
 
 It was a revolutionary way of shopping that made it much more straightforward. You can get anything you need in two-day shipping (or faster) and have it at your fingertips. It is perhaps the most significant vehicle of consumerism in this modern age.
 
@@ -18,7 +18,7 @@ Like the air I breathe, I can no longer function without it.
 
 ### The True Cost of Amazon Prime
 
-In 2016, my annual Amazon Prime subscription fee was $99. In 2018, Amazon raised the price to $119.
+In 2012, my annual Amazon Prime subscription fee was $99. In 2018, Amazon raised the price to $119.
 
 If I renew for 2023, the fee would be $139 annually.
 
@@ -34,7 +34,9 @@ Now that is a good deal! Ad-free Netflix and Hulu alone cost more than the month
 
 Yet this is just the drug to the addiction. It is the hook to the catch.
 
-In 6 years, I spent USD 59,265 through Amazon Prime with purchases. I do not typically monitor what I buy and treat it as if I go to a neighborhood store. Up until I look back through the years and ask myself, did I spend my money meaningfully?
+In about 10 years, I spent USD 59,265 through Amazon Prime with purchases. I do not typically monitor what I buy and treat it as if I go to a neighborhood store. Up until I look back through the years and ask myself, did I spend my money meaningfully?
+
+What could I have purchased in cash for that amount, an essential item like my car? There certainly was a better use for my money.
 
 ![Spend]({{site.baseurl}}/images/001-1.jpeg#wide)
 
