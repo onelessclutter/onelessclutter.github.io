@@ -1,11 +1,11 @@
-—-
+---
 layout: post
 title:  Why I Cancelled Amazon Prime
 description: Living less and escaping consumerism disguised as Amazon Prime
 date:   2023-01-01 15:01:35 +0300
 image:  ‘/images/001-0.jpeg’
 tags:   [consumerism]
-—-
+---
 My love affair with Amazon Prime started in 2016. 
 
 It was a revolutionary way of shopping that made it much more straightforward. You can get anything you need in two-day shipping (or faster) and have it at your fingertips. It is perhaps the most significant vehicle of consumerism in this modern age.
