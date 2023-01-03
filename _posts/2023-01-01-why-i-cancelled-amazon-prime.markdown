@@ -74,7 +74,9 @@ What am I giving up by letting go of Amazon Prime? Are there things that have va
 
 I want to explore these items or services at a time.
 
-## Alexa and the Amazon Echos
+##### Alexa and the Amazon Echos
+
+![Echos]({{site.baseurl}}/images/001-4.jpeg#wide)
 
 A few years ago, on a Black Friday or a Prime Day, I was so enamored by the technological idea of Alexa and the Amazon Echos.
 
@@ -83,8 +85,6 @@ Alexa is a voice assistant who can perform several tasks for you. It can set ala
 The idea of robots in my life has always enamored me. Robot vacuum cleaners, AI-driven devices, and switches that react to physical action, among other things, are perfect advertiser ammunition against me. If you throw this techy stuff in front of my face, bundle it with an enticing video, and convince me that my life is not complete without them, the courtship is over.
 
 Alexa and the Amazon Echos became members of our family. We would no longer want to physically turn our heads or walk a few steps to check out the time or the weather because why bother - Alexa can take care of it for you. Do we want to blast some mood-based music in a room or the entire house? That is just a simple instruction to Alexa. She will suggest many things I do not need before playing the songs. If I want to have a video call with my friends with similar devices, the Echo will do just that, albeit with the horribly-lagged video and call. It even integrates with security devices and cameras in the house, like the Ring doorbell. And worse, why bother browsing when you can tell Alexa to do it for you if you want to purchase something online?
-
-![Echos]({{site.baseurl}}/images/001-4.jpeg#wide)
 
 Life sucks without Alexa.
 
@@ -103,3 +103,28 @@ It is time to have one less clutter from these devices.
 I currently have three Amazon Echos that have screens. On top of that, I have about five Amazon Echo Dots in every hallway and the guest room. I even have one in the garage and patio. As part of decluttering, I will let go of the Echo Dots. Instead, the screen-enabled Echos will remain in the kitchen, my son’s room, and the living room. This decision will be my compromise, and I will re-evaluate this after a few months.
 
 I will try to get some freedom back from the clutches of these devices.
+
+##### Amazon Music
+
+![Amazon Music]({{site.baseurl}}/images/001-5.jpeg)
+
+Amazon Music is a music service that offers its customers the ability to stream and download music and create their playlists. 
+
+With Amazon Prime subscription, I got unlimited ad-free streaming and podcasts as part of the bundle.
+
+Was it convenient? Yes. 
+
+Is it better compared to Apple Music’s lossless audio and music selection? No.
+
+I think Amazon Music’s selection of playlists and songs and their audio quality are inferior to Apple Music. In addition, the mobile app is not as tightly-integrated into the built-in capabilities of the Apple-owned service. Using it with CarPlay in my vehicles is also not as fluid as Apple’s.
+
+I do not think I will miss Amazon Music. It is one less clutter in the duplicated service I prefer for streaming music.
+
+##### Amazon Prime Reading
+
+I don’t recall finding a reading-worthy book that came free as part of the Amazon Prime Reading bundle. Perhaps if you like a lot of fluffy novels with very little depth - but even that is a long shot.
+
+Whenever I find a book to read with Amazon Kindle, it will always be one I either have to purchase or part of the Kindle Unlimited subscription that I do not wish to avail myself.
+
+Did this service add value and meaning to my life? No.
+
