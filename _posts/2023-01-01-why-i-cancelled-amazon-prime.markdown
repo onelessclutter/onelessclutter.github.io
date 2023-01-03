@@ -3,7 +3,7 @@ layout: post
 title:  Why I Cancelled Amazon Prime
 description: Living less and escaping consumerism disguised as Amazon Prime
 date:   2023-01-01 15:01:35 +0300
-image:  ‘/images/001-1.jpg’
+image:  ‘/images/001-0.jpeg’
 tags:   [consumerism]
 —-
 My love affair with Amazon Prime started in 2016. 
