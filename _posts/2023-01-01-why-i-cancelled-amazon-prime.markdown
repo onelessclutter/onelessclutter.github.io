@@ -38,7 +38,7 @@ In about 10 years, I spent USD 59,265 through Amazon Prime with purchases. I do 
 
 What could I have purchased in cash for that amount, an essential item like my car? There certainly was a better use for my money.
 
-![Spend]({{site.baseurl}}/images/001-1.jpeg#wide)
+![Amazon Prime Spend]({{site.baseurl}}/images/001-1.jpeg#wide)
 
 I bought a lot of stuff. Some stuff would qualify as items that I genuinely need. A good amount of purchases were for things that I wanted. But the most significant spend would be for items that I *kinda liked*. In other words, items that are *junk*.
 
@@ -62,7 +62,9 @@ These items are worth the cost and truly add value to my life. However, the rema
 
 Suppose I look around my house and garage. In that case, I see the hint and shadows of these items everywhere, but that’s it - they are all superficial items - fillers that cater to some specific dopamine-releasing high at the time of purchase.
 
-Today is *day one* for me - the day one of self-control and change.
+> Today is *day one* for me - the day one of self-control and change.
+
+![Spend]({{site.baseurl}}/images/001-3.jpeg)
 
 I want to begin with a brute force change to cull the impulse. I am entirely terminating Amazon Prime with all its goodies so as not to be tempted. Would I pull it off by not unsubscribing and monitoring my spending habits? Perhaps, but more than likely not. I am a creature of habit and urge - but I also have a sincere goal of bettering myself.
 
@@ -73,6 +75,29 @@ It is throwing away the key that opens the door to online consumerism.
 What am I giving up by letting go of Amazon Prime? Are there things that have value in my life that I will miss? Are they replaceable, or are they duplicates of other things I already have? Will my life be better or worse with less?
 
 I want to explore these items or services at a time.
+
+##### 1-2 Days Prime Delivery
+
+I believe Amazon Prime’s 1-2 Days Free Delivery is the core engine of their enterprise. Without it, it may have been impossible to become this massive global giant. They heavily capitalized and invested in their logistics strategy to quickly make items available to their customers.
+
+But just like any sales promotion tactic such as BOGOs (Buy One Get One), this is simply a marketing strategy.
+
+It is a pure enticement. It creates the allure and whets your appetite into buying things you may not truly want or need. It makes purchasing a form of emergency.
+
+One of my favorite podcasts, [The Minimalists](https://theminimalists.com), plays a tune at the beginning of their talk show. It is a song by Peter Doran entitled Every Little Thing and clearly shows what we are doing wrong.
+
+> Every little thing, you think that you need
+> Every little thing, you think that you need
+> Every little thing that’s just feeding your greed
+> Oh, I bet that you’d be fine without it
+
+Yes, I bet that I’d be fine without it.
+
+A decade ago, buying items you genuinely need is physical exercise. You first find a store; you physically browse until you’re excited. Then, you hold the item in your hand. Finally, you debate whether you need it, want it, or just *kinda*.
+
+Nowadays, virtual browsing has supplanted this exercise. We no longer know what we are purchasing. We can no longer rely on our senses: how the item feels in our hand, smells, or even looks up close. Instead, product influencers, virtual advertisements, bait clicks, and product reviews are now driving the retail world.
+
+By not availing of Amazon Prime, I can free myself from this temptation. I can delay gratification when I feel the buying rush. And if I want or need something, I must work hard to get it. In the process, I bet I will end up not buying it at all. Wouldn’t that be nice?
 
 ##### Alexa and the Amazon Echos
 
