@@ -128,3 +128,19 @@ Whenever I find a book to read with Amazon Kindle, it will always be one I eithe
 
 Did this service add value and meaning to my life? No.
 
+### One Less Clutter
+
+Dear reader, welcome to **One Less Clutter**.
+
+I decided to change my life and live with less. It will be a long journey as I have accumulated too much stuff. It is not only confined to physical objects but digital and emotional ones. I want to free myself from the ties that bind me to the non-essential. I want to live a meaningful life for myself and my family.
+
+> My *credo* is a form of minimalism, but it is my kind of minimalism.
+
+Joshua Fields Millburn and Ryan Nicodemus of [The Minimalists] (https://theminimalists.com) heavily influence me. Yet everything that I will do only applies to me. The result of my blogging will be twofold: to document my success or failure in the journey and to gain feedback and ideas from you.
+
+After careful contemplation, I chose to unsubscribe from Amazon Prime to radically alter one clutter that I think has a significant impact on my life. 
+
+I will not be preaching or telling you what to do. I will not pretend that what works in my life works with you. But I will share it all with you. 
+
+And maybe, just maybe, we can help each other achieve something extraordinary - a meaningful life with *one less clutter* at a time.
+
