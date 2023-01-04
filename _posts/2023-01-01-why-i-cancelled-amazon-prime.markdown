@@ -86,9 +86,9 @@ It is a pure enticement. It creates the allure and whets your appetite into buyi
 
 One of my favorite podcasts, [The Minimalists](https://theminimalists.com), plays a tune at the beginning of their talk show. It is a song by Peter Doran entitled Every Little Thing and clearly shows what we are doing wrong.
 
-*Every little thing, you think that you need*
-*Every little thing, you think that you need*
-__*Every little thing that’s just feeding your greed*__
+*Every little thing, you think that you need*<br>
+*Every little thing, you think that you need*<br>   
+__*Every little thing that’s just feeding your greed*__<br>
 *Oh, I bet that you’d be fine without it*
 
 > Yes, I bet that I’d be fine without it.
