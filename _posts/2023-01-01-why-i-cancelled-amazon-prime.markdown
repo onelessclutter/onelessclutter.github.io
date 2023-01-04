@@ -136,7 +136,7 @@ I decided to change my life and live with less. It will be a long journey as I h
 
 > My *credo* is a form of minimalism, but it is my kind of minimalism.
 
-Joshua Fields Millburn and Ryan Nicodemus of [The Minimalists] (https://theminimalists.com) heavily influence me. Yet everything that I will do only applies to me. The result of my blogging will be twofold: to document my success or failure in the journey and to gain feedback and ideas from you.
+Joshua Fields Millburn and Ryan Nicodemus of [The Minimalists](https://theminimalists.com) heavily influence me. Yet everything that I will do only applies to me. The result of my blogging will be twofold: to document my success or failure in the journey and to gain feedback and ideas from you.
 
 After careful contemplation, I chose to unsubscribe from Amazon Prime to radically alter one clutter that I think has a significant impact on my life. 
 
