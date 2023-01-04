@@ -99,6 +99,16 @@ Nowadays, virtual browsing has supplanted this exercise. We no longer know what 
 
 By not availing of Amazon Prime, I can free myself from this temptation. I can delay gratification when I feel the buying rush. And if I want or need something, I must work hard to get it. In the process, I bet I will end up not buying it at all. Wouldn’t that be nice?
 
+##### Prime Video
+
+When it comes to Prime Video content, it is a hit or miss. But overall, I don't have any memorable recollection of any TV series I would rewatch on this platform.
+
+I happen to have Netflix, which is also up for debate. However, I get Disney Plus with my mobile provider as a bundle and HBO Max from AT&T Internet. So my streaming needs are covered, or my family is, as they will be the first ones to complain.
+
+I will not miss Prime Video. I think they tried hard to compete with the other streaming services, not to mention attempting very hard to make catastrophic series like the bastardization of the Tolkien world (I do not think I can ever forgive).
+
+Overall, it does not add value to my life. Regardless, I intend to reduce my streaming clutter, and I am glad I got one out of the way as part of this.
+
 ##### Alexa and the Amazon Echos
 
 ![Echos]({{site.baseurl}}/images/001-4.jpeg#wide)
