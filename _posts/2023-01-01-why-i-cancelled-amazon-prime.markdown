@@ -38,7 +38,7 @@ In about 10 years, I spent USD 59,265 through Amazon Prime with purchases. I do 
 
 What could I have purchased in cash for that amount, an essential item like my car? There certainly was a better use for my money.
 
-![Amazon Prime Spend]({{site.baseurl}}/images/001-1.jpeg#wide)
+![Amazon Prime Spend]({{site.baseurl}}/images/001-1.jpeg)
 
 I bought a lot of stuff. Some stuff would qualify as items that I genuinely need. A good amount of purchases were for things that I wanted. But the most significant spend would be for items that I *kinda liked*. In other words, items that are *junk*.
 
@@ -111,7 +111,7 @@ Overall, it does not add value to my life. Regardless, I intend to reduce my str
 
 ##### Alexa and the Amazon Echos
 
-![Echos]({{site.baseurl}}/images/001-4.jpeg#wide)
+![Echos]({{site.baseurl}}/images/001-4.jpeg)
 
 A few years ago, on a Black Friday or a Prime Day, I was so enamored by the technological idea of Alexa and the Amazon Echos.
 
